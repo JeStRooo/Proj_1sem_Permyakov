@@ -4,18 +4,18 @@
 
 w = 0
 for i in open('text19.txt', encoding='UTF-8'):
-    print(i, end='')
+    print(i, end='') #выводим наш текст в консоль
     for j in i:
-        if j.isalpha():
+        if j.isalpha(): #если наш символ является строкой, то +1
             w += 1
 print(end='\n')
 print('Количество букв: ', w, end='\n')
 
 f1 = open('text19.txt', encoding='UTF-8')
 l = f1.readlines()
-new_l = [x.lower() for x in l]
+new_l = [x.lower() for x in l] #заменяем символы верхнего регистра на нижний
 f1.close()
-f2 = open('text19-2.txt', 'w')
+f2 = open('text19-2.txt', 'w') #формируем новый файл
 f2.writelines(new_l)
 f2.close()
 

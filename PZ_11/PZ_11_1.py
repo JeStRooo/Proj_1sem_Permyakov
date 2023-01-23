@@ -6,17 +6,18 @@
 # Сумма элементов:
 # Элементы до n-1 умножены на элемент n:
 
+# Запишем в файл data_19.txt структуру данных - список
 list = ['100 -15 45']
 f19 = open('data_19.txt', 'w')
 f19.writelines(list)
 f19.close()
-
+# Дублируем список в новый файл data_20.txt
 f20 = open('data_20.txt', 'w')
 f20.write('Исходные данные: ')
 f20.write('\n')
 f20.writelines(list)
 f20.close()
-
+# разбиваем строку и ее значения преобразуем в числа
 f19 = open('data_19.txt')
 k = f19.read()
 k = k.split()
@@ -29,12 +30,12 @@ f19 = open('data_19.txt')
 t = 0
 sum = 0
 mult = 1
-
+# получаем сумму элементов
 for i in range(len(k)):
  sum += k[i]
  if k[i] < 0:
     t += 1
-
+# получаем произведение
 for i in range(len(k)):
  mult *= k[i]
  if k[i] < 0:
