@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e18fc069-0341-4154-85e8-898aabaea702" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/PZ_12/PZ_12_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PZ_12/PZ_12_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PZ_12/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PZ_13/PZ_13_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PZ_13/PZ_13_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PZ_13/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PZ_12/PZ_12_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PZ_13/PZ_13_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,6 +97,9 @@
       <workItem from="1674154933445" duration="5009000" />
       <workItem from="1674506383098" duration="989000" />
       <workItem from="1675418754878" duration="1015000" />
+      <workItem from="1675871911952" duration="545000" />
+      <workItem from="1676624481051" duration="1825000" />
+      <workItem from="1676665313571" duration="3204000" />
     </task>
     <task id="LOCAL-00001" summary="Update for PZ_4_1">
       <created>1667985142832</created>
@@ -174,6 +177,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Proj_1sem_Permyakov$PZ_5_2.coverage" NAME="PZ_5_1 Coverage Results" MODIFIED="1668201343662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_4" />
     <SUITE FILE_PATH="coverage/Proj_1sem_Permyakov$PZ_4_2.coverage" NAME="PZ_4_2 Coverage Results" MODIFIED="1667946903443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_4" />
-    <SUITE FILE_PATH="coverage/Proj_1sem_Permyakov$PZ_6_2.coverage" NAME="PZ_6_2 Coverage Results" MODIFIED="1675419556964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_11" />
+    <SUITE FILE_PATH="coverage/Proj_1sem_Permyakov$PZ_6_2.coverage" NAME="PZ_6_2 Coverage Results" MODIFIED="1676668523000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PZ_11" />
   </component>
 </project>
